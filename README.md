@@ -1,1 +1,1 @@
-# Machine-learning-application-with-R-programming-
+# Machine-learning-applications-with-R-programming-
